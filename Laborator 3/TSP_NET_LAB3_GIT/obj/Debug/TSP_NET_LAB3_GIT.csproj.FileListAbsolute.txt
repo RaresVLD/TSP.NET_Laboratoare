@@ -1,0 +1,11 @@
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\TSP_NET_LAB3_GIT.exe.config
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\TSP_NET_LAB3_GIT.exe
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\TSP_NET_LAB3_GIT.pdb
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\EntityFramework.dll
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\EntityFramework.xml
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\obj\Debug\TSP_NET_LAB3_GIT.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\obj\Debug\TSP_NET_LAB3_GIT.csproj.CopyComplete
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\obj\Debug\TSP_NET_LAB3_GIT.exe
+C:\Users\Rares\source\repos\TSP_NET_LAB3_GIT\TSP_NET_LAB3_GIT\obj\Debug\TSP_NET_LAB3_GIT.pdb
