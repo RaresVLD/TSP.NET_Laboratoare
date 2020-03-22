@@ -1,0 +1,9 @@
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\bin\Debug\TSPNET_LAB2.exe.config
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\bin\Debug\TSPNET_LAB2.exe
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\bin\Debug\TSPNET_LAB2.pdb
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.Properties.Resources.resources
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.csproj.GenerateResource.cache
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.exe
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.pdb
+C:\Users\Rares\source\repos\TSPNET_LAB2\TSPNET_LAB2\obj\Debug\TSPNET_LAB2.Calculator.resources
