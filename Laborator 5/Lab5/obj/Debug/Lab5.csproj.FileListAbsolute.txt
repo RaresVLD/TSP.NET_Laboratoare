@@ -1,0 +1,11 @@
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\EntityFramework.dll
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\EntityFramework.xml
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Rares\source\repos\TSPNET_Lab5\Lab5\obj\Debug\Lab5.pdb
