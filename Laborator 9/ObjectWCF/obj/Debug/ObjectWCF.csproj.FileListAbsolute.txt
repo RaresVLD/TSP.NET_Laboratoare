@@ -1,0 +1,11 @@
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\Rares\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.pdb

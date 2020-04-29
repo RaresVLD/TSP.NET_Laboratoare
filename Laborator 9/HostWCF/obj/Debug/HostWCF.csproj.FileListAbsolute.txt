@@ -1,0 +1,14 @@
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\PostComment.dll
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\Rares\source\repos\PostComment\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Rares\source\repos\PostComment\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\PostComment\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\Rares\source\repos\PostComment\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\Rares\source\repos\PostComment\HostWCF\obj\Debug\HostWCF.pdb
