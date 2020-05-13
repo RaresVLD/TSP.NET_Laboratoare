@@ -1,0 +1,22 @@
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\PostComment.dll
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\PostComment.pdb
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\Rares\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rares\source\repos\PostComment\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\PostComment\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\Rares\source\repos\PostComment\PostComment\obj\Debug\PostComment.dll
+C:\Users\Rares\source\repos\PostComment\PostComment\obj\Debug\PostComment.pdb
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\PostComment.dll
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\PostComment.pdb
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\Rares\Desktop\Laborator 6\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rares\Desktop\Laborator 6\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\Rares\Desktop\Laborator 6\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\Rares\Desktop\Laborator 6\PostComment\obj\Debug\PostComment.dll
+C:\Users\Rares\Desktop\Laborator 6\PostComment\obj\Debug\PostComment.pdb

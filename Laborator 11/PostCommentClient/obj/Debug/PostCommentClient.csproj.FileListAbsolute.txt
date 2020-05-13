@@ -1,0 +1,8 @@
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\bin\Debug\PostCommentClient.exe.config
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\bin\Debug\PostCommentClient.exe
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\bin\Debug\PostCommentClient.pdb
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\obj\Debug\PostCommentClient.csprojAssemblyReference.cache
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\obj\Debug\PostCommentClient.Properties.Resources.resources
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\obj\Debug\PostCommentClient.csproj.GenerateResource.cache
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\obj\Debug\PostCommentClient.exe
+C:\Users\Rares\Desktop\Laborator 6\PostCommentClient\obj\Debug\PostCommentClient.pdb
